@@ -332,7 +332,7 @@ $_dbm = array(
   	...
   );
 ```
-* ***table_prefix_replace*** is only valid for [WordPress](https://wordpress.org/) databases and only works when ***table_prefix*** parameter is specified. To specify the replacement prefix, replace TABLE_NAME_PREFIX above with the required string.
+* ***table_prefix_replace*** is only valid for [WordPress](https://wordpress.org/) databases and only works when ***table_prefix*** parameter is specified. To specify the replacement prefix, replace REPACEMENT_TABLE_NAME_PREFIX above with the required string.
 
 
 ----
